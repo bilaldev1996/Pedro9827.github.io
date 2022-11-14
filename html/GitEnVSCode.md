@@ -20,7 +20,7 @@ También se puede escribir escribir el comentario en el cuadro de texto que apar
 Y por último, a la izquierda nos saldrá el botón para sincronizar los cambios con github.<br>
 ![Imagen](../img/gitEnVsCode/10.png)<br>
 Con esto, hemos hecho push del repositorio local al remoto.
-## 2.- Sicronizar repositorio local on el online (pull).
+## 2.- Sicronizar repositorio local con el online (pull).
 Ahora supongamos que, desde otro equipo, hemos realizado cambios en el repositorio online y queremos sincronizarlo con el local desde VS Code.
 Para traer esos cambios a nuestro repositorio local, lo que tenemos que hacer es dirigirnos a Control de código fuente -> Opciones -> “pull”, “push” -> Sincronizar.
 ![Imagen](../img/gitEnVsCode/14.png)<br>
